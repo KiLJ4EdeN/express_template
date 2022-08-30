@@ -1,5 +1,5 @@
 // test creating random numbers
-const { getRandomInt } = require('../src/rand')
+const { getRandomInt } = require('../src/lib/rand')
 
 // to create the predicitons.txt file run the python code.
 test('test creating a random number', () => {

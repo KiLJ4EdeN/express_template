@@ -1,5 +1,5 @@
 // index js
-const { getRandomInt } = require('./rand')
+const { getRandomInt } = require('./lib/rand')
 require('dotenv').config()
 /**
  * Express router to mount user related functions on.
