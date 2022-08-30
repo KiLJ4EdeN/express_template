@@ -22,8 +22,8 @@ localhost:3000/cov/
 
 
 #### root page
-<img src="https://github.com/KiLJ4EdeN/express_template/blob/master/imgs/root.png" width="90%" height="90%" />
+![](https://github.com/KiLJ4EdeN/express_template/blob/master/imgs/root.png)
 #### docs page
-<img src="https://github.com/KiLJ4EdeN/express_template/blob/master/imgs/docs.png" width="90%" height="90%" />
+![](https://github.com/KiLJ4EdeN/express_template/blob/master/imgs/root.png)
 #### coverage page
-<img src="https://github.com/KiLJ4EdeN/express_template/blob/master/imgs/cov.png" width="90%" height="90%" />
+![](https://github.com/KiLJ4EdeN/express_template/blob/master/imgs/root.png)
