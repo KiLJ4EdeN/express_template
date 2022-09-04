@@ -4,11 +4,18 @@ template to create express apps
 
 ### usage
 
+### local installation
 ```bash
 npm install
 npm test
 npm run create-doc
 npm start
+```
+
+### docker
+```bash
+sudo docker compose build
+sudo docker compose up
 ```
 
 refer to these urls for the main route, docs, and code coverage:
