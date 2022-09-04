@@ -1,0 +1,21 @@
+version: '3.7'
+
+services:
+    express-template:
+        build: .
+        container_name: express-template
+        restart: always
+        environment:
+            - APP_PORT=3000
+        expose:
+            - 3000
+        command: forever .forever.json
+
+    nginx-express-template:
+        build: ./nginx
+        container_name: nginx-express-template
+        restart: always
+        ports:
+            - 3000:80
+        depends_on:
+            - express-template

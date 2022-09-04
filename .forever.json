@@ -1,0 +1,6 @@
+{
+    "uid": "app",
+    "append": false,
+    "watch": false,
+    "script": "src/index.js"
+}

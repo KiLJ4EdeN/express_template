@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "start": "node src/index.js",
-        "test": "jest --collectCoverage --coverageDirectory='src/coverage'",
+        "test": "jest --collectCoverage",
         "create-doc": "jsdoc --readme README.md -c .jsdoc.conf.json -d src/docs",
         "format:check": "prettier --check .",
         "format:write": "prettier --write .",

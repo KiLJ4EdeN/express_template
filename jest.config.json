@@ -1,0 +1,4 @@
+{
+    "verbose": true,
+    "coverageDirectory": "<rootDir>/src/coverage"
+}

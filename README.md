@@ -19,13 +19,14 @@ localhost:3000/docs/
 
 localhost:3000/cov/
 
-
-
 #### root page
+
 <img src="https://github.com/KiLJ4EdeN/express_template/blob/main/imgs/root.png" width="50%" height="50%" />
 
 #### docs page
+
 <img src="https://github.com/KiLJ4EdeN/express_template/blob/main/imgs/docs.png" width="100%" height="100%" />
 
 #### coverage page
+
 <img src="https://github.com/KiLJ4EdeN/express_template/blob/main/imgs/cov.png" width="100%" height="100%" />
